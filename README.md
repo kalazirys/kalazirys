@@ -32,8 +32,6 @@ Links for community
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />
 
-<img align="right" src="re-l-proxy.gif" width="350" height="300"/>
-
 <div align="left";>
   <a href="https://php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" /></a>
@@ -65,6 +63,8 @@ Links for community
 </div>
 
 ### My tools
+
+<img align="right" src="re-l-proxy.gif" width="350" height="300"/>
 
 <div align="left";>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /></a>
