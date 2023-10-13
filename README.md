@@ -3,6 +3,8 @@
 <!--
 **kalazirys/kalazirys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![ezgif com-optimize](https://github.com/kalazirys/kalazirys/assets/113465423/741eb5c8-e411-44b0-b22e-0b082f469b4e)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
