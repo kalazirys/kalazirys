@@ -32,7 +32,7 @@ Links for community
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />
 
-<img align="right" src="re-l-proxy.gif" width="300" height="275"/>
+<img align="right" src="re-l-proxy.gif" width="400" height="450"/>
 
 <div align="left";>
   <a href="https://php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" /></a>
