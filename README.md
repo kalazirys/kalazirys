@@ -6,7 +6,7 @@
 
 My name is Stefanía Herrera, but you can call me **kalazirys**. I'm portuguese transgender woman, 26 years old. I'm interdisciplinary Fashion Designer, Dedicated to exploring the future of fashion: fashion art, wearable technology, That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 12 years old, in the [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) language (*Hard times*).
 
-<img align="right" src="re-l-ergo-proxy.gif" width="300" heigh  t="276"/>
+<img align="right" src="re-l-ergo-proxy.gif" width="300" height="275"/>
 
 - 🔭 I’m currently working on [Linkscraper](https://github.com/Kremilly/linkscraper) & [Paimon](https://github.com/Kremilly/Paimon)
 - 🌱 I’m currently learning Go, Rust & Next.JS
@@ -90,4 +90,4 @@ Links for community
   <a href="https://ubuntu.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" width="36" /></a>
 </div>
 
-<img align="right" src="re-l-proxy.gif" />
+<img align="right" src="re-l-proxy.gif" width="300" height="275"/>
