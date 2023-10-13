@@ -22,7 +22,7 @@ My social media
 * [Twitter](https://twitter.com/kalazirys)
 
 Education
-* Systems Analysis and Development at [UNIP](http://www.unip.br/ead/)
+* Management and Programming of Computer Systems at [DIDAXIS](https://www.didaxis.pt/)
 
 Links for community
 * [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
