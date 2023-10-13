@@ -31,6 +31,7 @@ Links for community
 ## My current languages
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />
+<img align="right" src=" re-l-proxy.gif" width="300" height="275"/>
 
 <div align="left";>
   <a href="https://php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" /></a>
@@ -64,7 +65,7 @@ Links for community
 
 ### My tools
 
-<img align="right" src="re-l-proxy.gif" width="300" height="275"/>
+<img align="right" src="re-lwalking.gif" width="300" height="275"/>
 
 <div align="left";>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /></a>
