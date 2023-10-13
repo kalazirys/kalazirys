@@ -78,12 +78,13 @@ Links for community
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" /></a>
   <a href="https://jetbrains.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" /></a>
   <a href="https://micro-editor.github.io"><img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" width="36" /></a>
-  <a href="https://neovim.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="36" /></a>
+  <a href="https://neovim.io"><img src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js" width="36" /></a>
 </div>
+<img src=" />
 
 ### System's
 
 <div align="left";>
   <a href="https://www.microsoft.com/en-us/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="36" /></a>
-  <a href="https://ubuntu.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="36" /></a>
+  <a href="https://ubuntu.com"><img src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js" width="36" /></a>
 </div>
