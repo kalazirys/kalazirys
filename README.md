@@ -23,6 +23,7 @@ My social media
 
 Education
 * Management and Programming of Computer Systems at [DIDAXIS](https://www.didaxis.pt/)
+* Senior Fashion Design Technician at [IPCA](https://etesp.ipca.pt/)
 
 Links for community
 * [Rust Essentials for VSCode](https://github.com/kremilly/rust-vscode-extensions)
