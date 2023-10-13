@@ -15,7 +15,7 @@ My name is Stefanía Herrera, but you can call me **kalazirys**. I'm portuguese 
 - 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an interdisciplinary Fashion Designer/ Artist / Student
-<img align="right" src="re-l-proxy.gif" width="300" height="275"/>
+
 My social media
 
 * [Dev.to](https://dev.to/kalazirys)
@@ -31,6 +31,7 @@ Links for community
 ## My current languages
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kremilly&layout=donut&theme=transparent&hide_border=true&hide=css" />
+<img align="right" src="re-l-proxy.gif" width="300" height="275"/>
 
 <div align="left";>
   <a href="https://php.net"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" /></a>
