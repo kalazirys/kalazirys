@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="">
+  <img src="ezgif.com-optimize.gif">
 </div>
 
 ## Hello World! 👋
