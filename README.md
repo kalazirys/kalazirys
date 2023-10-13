@@ -78,7 +78,7 @@ Links for community
   <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" /></a>
   <a href="https://jetbrains.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="36" /></a>
   <a href="https://micro-editor.github.io"><img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" width="36" /></a>
-  <a href="https://neovim.io"><img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" width="36" /></a>
+  <a href="https://neovim.io"><img src="https://repository-images.githubusercontent.com/296702877/d4cd236e-7ca3-4e92-a7c5-533f3a8a9c7b" width="36" /></a>
 </div>
 
 ### System's
