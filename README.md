@@ -4,7 +4,7 @@
 
 ## Hello World! 👋
 
-My name is Stefania, but you can call me **kalazirys**. I'm portuguese transgender woman, 26 years old. That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 15 years old, in the [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) language (*Hard times*).
+My name is Stefanía Herrera, but you can call me **kalazirys**. I'm portuguese transgender woman, 26 years old. That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 15 years old, in the [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) language (*Hard times*).
 
 <img align="right" src="dancing-gopher.gif" />
 
