@@ -56,6 +56,8 @@ Links for community
 
 ### Databases
 
+<img align="right" src="re-l-proxy.gif" width="300" height="275"/>
+
 <div align="left";>
   <a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36" /></a>
   <a href="https://mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" /></a>
@@ -63,8 +65,6 @@ Links for community
 </div>
 
 ### My tools
-
-<img align="right" src="re-l-proxy.gif" width="350" height="300"/>
 
 <div align="left";>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /></a>
