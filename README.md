@@ -83,7 +83,6 @@ Links for community
   <a href="https://micro-editor.github.io"><img src="https://avatars.githubusercontent.com/u/21361806?s=280&v=4" width="36" /></a>
   <a href="https://neovim.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" width="36" /></a>
 </div>
-<img src=" />
 
 ### System's
 
