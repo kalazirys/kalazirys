@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img align="right" src="giphy.gif" />
   <img align="right" src="giphy (1).gif" />
 </div>
 
