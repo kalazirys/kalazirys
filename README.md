@@ -2,10 +2,6 @@
   <img src="ezgif.com-optimize.gif">
 </div>
 
-<div align="center">
-  <img align="right" src="giphy (1).gif" width="300" height="275" />
-</div>
-
 ## Hello World! 👋
 
 My name is Stefanía Herrera, but you can call me **kalazirys**. I'm portuguese transgender woman, 26 years old. I'm interdisciplinary Fashion Designer, Dedicated to exploring the future of fashion: fashion art, wearable technology, That loves learning about programming languages, technology, astronomy, music and others stuffs. I started to programmer as a 12 years old, in the [**VB.Net**](https://en.wikipedia.org/wiki/Visual_Basic_(.NET)) language (*Hard times*).
@@ -69,6 +65,7 @@ Links for community
 ### My tools
 
 <img align="right" src="justleave.webp" width="300" height="275"/>
+<img align="right" src="giphy (1).gif" width="300" height="275" />
 
 <div align="left";>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /></a>
