@@ -1,7 +1,10 @@
 <div align="center">
   <img src="ezgif.com-optimize.gif">
-  <img align="right" src="giphy.gif" width="150" height="150"/>
-  <img align="right" src="giphy (1).gif" width="150" height="150"/>
+</div>
+
+<div align="center">
+  <img align="right" src="giphy.gif" />
+  <img align="right" src="giphy (1).gif" />
 </div>
 
 ## Hello World! 👋
