@@ -64,7 +64,7 @@ Links for community
 
 ### My tools
 
-<img align="right" src="re-lwalking.gif" width="300" height="275"/>
+<img align="right" src="justleave.webp" width="300" height="275"/>
 
 <div align="left";>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" /></a>
